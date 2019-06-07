@@ -1,2 +1,5 @@
 pidgin
 importnb
+pytest
+nbval
+git
