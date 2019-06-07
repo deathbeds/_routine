@@ -13,3 +13,6 @@
 [submodule "src/_routine/fcadd096e201b5ba6be1dd6d60697d8d"]
 	path = src/_routine/a_better_blogging_layout
 	url = https://gist.github.com/fcadd096e201b5ba6be1dd6d60697d8d
+[submodule "src/_routine/quick_response_code"]
+	path = src/_routine/quick_response_code
+	url = https://gist.github.com/tonyfast/aaae55bac20f27029b4d92f05a79d005
