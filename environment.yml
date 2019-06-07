@@ -1,0 +1,8 @@
+name: _routine
+channels:
+- conda-forge
+dependencies:
+- pandas
+- nbconvert
+- ipywidgets
+- toolz
