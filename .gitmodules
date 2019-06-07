@@ -16,3 +16,6 @@
 [submodule "src/_routine/quick_response_code"]
 	path = src/_routine/quick_response_code
 	url = https://gist.github.com/tonyfast/aaae55bac20f27029b4d92f05a79d005
+[submodule "src/_routine/shape_based_constraint"]
+	path = src/_routine/shape_based_constraint
+	url = https://gist.github.com/bollwyvl/8a661a3666a6f3793fa72a8bb0955a8a
